@@ -45,18 +45,30 @@ class Board extends Component {
     }
 
     flipCell(y,x);        //flip initial cell
-    flipCell(y, x-1);  //flip left
-    flipCell(y, x+1);  //flip right
-    flipCell(y-1, x);  //flip below
-    flipCell(y+1, x);  //flip above
+    // flipCell(y, x-1);  //flip left
+    // flipCell(y, x+1);  //flip right
+    // flipCell(y-1, x);  //flip below
+    // flipCell(y+1, x);  //flip above
 
-    let hasWon = false;
+    let hasWon = board.every(row => row.every(cell => cell === false));
+
     this.setState({board, hasWon});
   }
+  Playagain(){
 
+  }
 
   /** Render game board or winning message. */
   render() {
+    if(this.state.hasWon) {
+      return (
+          <div className="win-message">
+            <span className="Neon1">You </span>
+            <span className="Neon2">Win!</span>
+          </div>
+      )
+
+  }
 
     let tblBoard = [];
     for(let y = 0; y < this.props.nrows; y ++){
@@ -69,11 +81,17 @@ class Board extends Component {
     }
 
     return (
+      <div className="Lights-Out">
+        <div className="title">
+          <h1 className="Neon1">Lights</h1>
+          <h1 className="Neon2">Out</h1>
+        </div>
         <table className="Board">
           <tbody>
-            {tblBoard}
+          {tblBoard}
           </tbody>
         </table>
+      </div>
     )
   }
 }
