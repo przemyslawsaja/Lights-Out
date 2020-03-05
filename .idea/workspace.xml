@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d0a0145-f010-45aa-9339-18376b535009" name="Default Changelist" comment="">
+    <list default="true" id="4d0a0145-f010-45aa-9339-18376b535009" name="Default Changelist" comment="Added game winner condition.&#10;Board style updated.&#10;Cell style updated.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Board.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Board.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cell.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cell.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +14,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="przemyslawsaja" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Lights_Out" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/przemyslawsaja/Lights_Out.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1YKrYbAndJ3oM7ZnEwdChATq1HJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -111,16 +120,31 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Board,Cell files added." />
     <MESSAGE value="FlipCellsAround function updated." />
     <option name="LAST_COMMIT_MESSAGE" value="FlipCellsAround function updated." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="282" y="40" width="1106" height="808" key="CommitChangelistDialog2" timestamp="1583404901977">
+    <state x="282" y="40" width="1106" height="808" key="CommitChangelistDialog2" timestamp="1583415895586">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="282" y="40" width="1106" height="808" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583404901977" />
+    <state x="282" y="40" width="1106" height="808" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583415895586" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1583415658624">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1583415658624" />
     <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1582805536316">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -141,6 +165,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583344339499" />
+    <state x="143" y="100" width="1244" height="670" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1583415658624">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="143" y="100" width="1244" height="670" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1536.864@0.0.1536.864" timestamp="1583415658624" />
     <state x="426" y="197" key="run.anything.popup" timestamp="1583411366125">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
