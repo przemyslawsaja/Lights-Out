@@ -1,3 +1,21 @@
+## Project title 
+Lights Out is an reconstruction of the iconic electronic game released by Tiger Electronics in 1995. 
+
+## Game Rules
+The game consists of a 5 by 5 grid of lights. 
+When the game starts, a random number or a stored pattern of these lights is switched on. 
+Pressing any of the lights will toggle it and the adjacent lights. 
+Your goal is to turn off all of the lights.
+Its not that easy as you think! :) 
+
+## Motivation
+The goal of creating this project was to improve and test my React.js skills.
+
+## Screenshots
+<img src="images/LightsOut_ss1.png" with="300" height="300">
+<img src="images/LightsOut_ss2.png" with="300" height="300">
+<img src="images/LightsOut_ss3.png" with="300" height="300">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
