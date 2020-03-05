@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/przemyslawsaja/Lights_Out/static/css/main.39a10ec8.chunk.css",
-    "main.js": "/przemyslawsaja/Lights_Out/static/js/main.56b4975f.chunk.js",
-    "main.js.map": "/przemyslawsaja/Lights_Out/static/js/main.56b4975f.chunk.js.map",
-    "runtime-main.js": "/przemyslawsaja/Lights_Out/static/js/runtime-main.e74db2e9.js",
-    "runtime-main.js.map": "/przemyslawsaja/Lights_Out/static/js/runtime-main.e74db2e9.js.map",
-    "static/js/2.50b6cd0d.chunk.js": "/przemyslawsaja/Lights_Out/static/js/2.50b6cd0d.chunk.js",
-    "static/js/2.50b6cd0d.chunk.js.map": "/przemyslawsaja/Lights_Out/static/js/2.50b6cd0d.chunk.js.map",
-    "index.html": "/przemyslawsaja/Lights_Out/index.html",
-    "precache-manifest.6afad38dcbca5be8b37587d31442cb69.js": "/przemyslawsaja/Lights_Out/precache-manifest.6afad38dcbca5be8b37587d31442cb69.js",
-    "service-worker.js": "/przemyslawsaja/Lights_Out/service-worker.js",
-    "static/css/main.39a10ec8.chunk.css.map": "/przemyslawsaja/Lights_Out/static/css/main.39a10ec8.chunk.css.map",
-    "static/js/2.50b6cd0d.chunk.js.LICENSE.txt": "/przemyslawsaja/Lights_Out/static/js/2.50b6cd0d.chunk.js.LICENSE.txt"
+    "main.css": "/Lights_Out/static/css/main.39a10ec8.chunk.css",
+    "main.js": "/Lights_Out/static/js/main.e853d572.chunk.js",
+    "main.js.map": "/Lights_Out/static/js/main.e853d572.chunk.js.map",
+    "runtime-main.js": "/Lights_Out/static/js/runtime-main.819474bd.js",
+    "runtime-main.js.map": "/Lights_Out/static/js/runtime-main.819474bd.js.map",
+    "static/js/2.50b6cd0d.chunk.js": "/Lights_Out/static/js/2.50b6cd0d.chunk.js",
+    "static/js/2.50b6cd0d.chunk.js.map": "/Lights_Out/static/js/2.50b6cd0d.chunk.js.map",
+    "index.html": "/Lights_Out/index.html",
+    "precache-manifest.69cc21751e36bdffabe5c10bc080f225.js": "/Lights_Out/precache-manifest.69cc21751e36bdffabe5c10bc080f225.js",
+    "service-worker.js": "/Lights_Out/service-worker.js",
+    "static/css/main.39a10ec8.chunk.css.map": "/Lights_Out/static/css/main.39a10ec8.chunk.css.map",
+    "static/js/2.50b6cd0d.chunk.js.LICENSE.txt": "/Lights_Out/static/js/2.50b6cd0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e74db2e9.js",
+    "static/js/runtime-main.819474bd.js",
     "static/js/2.50b6cd0d.chunk.js",
     "static/css/main.39a10ec8.chunk.css",
-    "static/js/main.56b4975f.chunk.js"
+    "static/js/main.e853d572.chunk.js"
   ]
 }
