@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d0a0145-f010-45aa-9339-18376b535009" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Board.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Board.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cell.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cell.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Board.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +12,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="przemyslawsaja" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Lights_Out" />
   </component>
   <component name="ProjectId" id="1YKrYbAndJ3oM7ZnEwdChATq1HJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -86,18 +83,38 @@
       <workItem from="1582783439095" duration="3033000" />
       <workItem from="1582887782713" duration="1921000" />
       <workItem from="1583225081810" duration="1324000" />
-      <workItem from="1583312376631" duration="9360000" />
+      <workItem from="1583312376631" duration="11867000" />
     </task>
+    <task id="LOCAL-00001" summary="Board,Cell files added.">
+      <created>1583402248395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583402248395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Board,Cell files added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Board,Cell files added." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="292" y="56" width="1106" height="808" key="CommitChangelistDialog2" timestamp="1583404830463">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="292" y="56" width="1106" height="808" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583404830463" />
     <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1582805536316">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1582805536316" />
+    <state x="542" y="300" key="Github.CreatePullRequestDialog" timestamp="1583404790607">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="542" y="300" key="Github.CreatePullRequestDialog/0.0.1536.864@0.0.1536.864" timestamp="1583404790607" />
     <state x="648" y="327" width="258" height="210" key="Github.ShareDialog" timestamp="1583402133684">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
